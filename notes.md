@@ -12,6 +12,7 @@ npm i @types/node tsx -D
 npm i fastify
 npm i -D --save-exact @biomejs/biome
 docker compose up -d (rodar o docker compose)
+npm run dev (rodar a aplicação)
 npm i drizzle-orm
 npm i drizzle-kit -D
 npm i zod
@@ -33,4 +34,4 @@ Nessa aula vamos avançar ainda mais o desenvolvimento da aplicação, finalizar
 
 ## Aula 03 - Finalizando a aplicação
 
-Na última aula vamos criar a conexão da aplicação com API usando React Query e formulário com React Hook Form e finalizar mais esse projeto para adicionar no seu portfólio e conquistar seu certificado de participação.
+Na última aula vamos criar a conexão da aplicação com API usando React Query e formulário com React Hook Form e finalizar mais esse projeto para adicionar no seu portfólio e conquistar seu certificado de participação
