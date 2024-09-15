@@ -2,7 +2,7 @@
 
 **in.orbit** é um sistema de controle de metas semanal. Com ele, você pode adicionar metas a serem cumpridas ao longo da semana, definir quantos dias deseja alcançar a meta e selecionar as metas que já foram cumpridas. Ao final da semana, o sistema gera um relatório detalhado com todas as metas concluídas, incluindo os respectivos dias e horários em que foram realizadas.
 
-## 🎥 Medias
+## 🎥 Media
 
 <div align="center">
 
@@ -10,13 +10,7 @@
 
 </div>
 
-<div align="center">
-  <img src="assets/in-orbit-home.png" alt="in-orbit" width="400"/>
-  <img src="assets/in-orbit-create-goal.png" alt="in-orbit" width="400"/>
-  <img src="assets/in-orbit-summary.png" alt="in-orbit" width="400"/>
-</div>
-
-
+Para mais conteúdos de mídia do projeto acesse [aqui](assets/).
 
 ## Funcionalidades
 
