@@ -10,7 +10,7 @@
 
 Para mais conteúdos de mídia do projeto acesse [aqui](assets/).
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
 - 📝 **Adicionar Metas**: Crie metas semanais com detalhes sobre os dias em que deseja cumpri-las.
 - 📅 **Definir Dias**: Escolha em quantos e quais dias da semana você deseja cumprir cada meta.
