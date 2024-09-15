@@ -1,1 +1,0 @@
-# NLW Pocket: JavaScript - FullStack Intermediário (Node + React)
