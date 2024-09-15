@@ -5,13 +5,9 @@
 ## Screenshots
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="assets/in-orbit-home.png" alt="Home" width="400"/></td>
-      <td><img src="assets/in-orbit-create-goal.png" alt="Create Goal" width="400"/></td>
-      <td><img src="assets/in-orbit-summary.png" alt="Summary" width="400"/></td>
-    </tr>
-  </table>
+  <img src="assets/in-orbit-home.png" alt="Home" width="400"/>
+  <img src="assets/in-orbit-create-goal.png" alt="Home" width="400"/>
+  <img src="assets/in-orbit-summary.png" alt="Home" width="400"/>
 </div>
 
 
